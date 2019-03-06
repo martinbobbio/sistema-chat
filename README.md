@@ -14,10 +14,10 @@ Aplicacin de chat usando NodeJs y Socket.io
 
 ### Inicio
 
-![Image of inicio](public/imagenes/pagina/inicio.PNG)
+![Image of inicio](public/assets/images/background/inicio.png)
 
-### Cat
+### Chat
 
-![Image of inicio](public/imagenes/pagina/registro.PNG)
+![Image of inicio](public/assets/images/background/chat.png)
 
 
