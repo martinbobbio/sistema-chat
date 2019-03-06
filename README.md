@@ -2,7 +2,7 @@
   <br>
   <img src="https://ih1.redbubble.net/image.109336634.1604/flat,550x550,075,f.u1.jpg" width="200">
   <br><br>
-  Sistema de futbol
+  Sistema de chat
   <br>
 </h1>
 
