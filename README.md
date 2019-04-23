@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="200">
   <br><br>
   Sistema de chat
   <br>
