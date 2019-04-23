@@ -2,13 +2,13 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="200">
   <br><br>
-  Sistema de chat
+  Aplicación de teatros
   <br>
 </h1>
 
 
 # Descripción
-Aplicacin de chat usando NodeJs y Socket.io
+Gestión de teatros, shows, presentaciones, reservas. Tambien autenticacion propia, facebook y google. El servidor está implementado con Firebase
 
 # Capturas
 
